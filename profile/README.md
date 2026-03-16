@@ -1,5 +1,5 @@
 <div align="center">
-# Club de Cybersécurité de l'UNCHK
+<h2>Club de Cybersécurité de l'UNCHK</h2>
 </div>
 
 <div align="center">
