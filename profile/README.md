@@ -40,7 +40,7 @@ Tout est public et réutilisable.
 
 | Activité | Fréquence | Canal |
 |----------|-----------|-------|
-| **CTF Friday** — résolution collective en vocal | Chaque vendredi soir | Discord |
+| **CTF Friday** résolution collective en vocal | Chaque vendredi soir | Discord |
 | **Workshop mensuel** présentation technique | 1er mercredi du mois | Discord |
 | **CTF compétitif** participation en équipe | ~1 par mois ||
 
